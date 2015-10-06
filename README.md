@@ -47,6 +47,8 @@ This section guides you in setting up Logstash Event Log File plugin configurati
    Additional information about managing Docker containers:  
    `make remove` removes an already running Docker container.  
    `make resume` resumes an existing but stopped Docker container.   
+   See the image below for interacting with Docker container with `make` tool.
+   ![State machine diagram for interacting with Docker containers using `make` tool](https://cloud.githubusercontent.com/assets/7350893/10322200/9c3accf0-6c31-11e5-8f58-c8102bd20fab.png)
    If you are an advanced Docker user or use Windows platform, you might want to look inside `scripts/` directory on how to run (`scripts/run.sh`), resume (`scripts/resume.sh`), or remove (`scripts/remove.sh`) Docker images.
 
 ### Exploring, Analyzing, and Visualizing Data in Kibana
@@ -54,7 +56,7 @@ This section guides you in setting up Logstash Event Log File plugin configurati
 2. Set index pattern in *Settings > Indices* to `logstash-*` and click *Create*. Some mapping conflicts may occur which is fine. See screenshot below.
 3. Click *Discover* and start exploring and visualizing your data. 
 
-![alt text](https://cloud.githubusercontent.com/assets/7350893/10236694/c8afddac-685d-11e5-813c-82bc0c7c8e0f.gif)
+![Screenshot of setting up and interacting with Kibana](https://cloud.githubusercontent.com/assets/7350893/10236694/c8afddac-685d-11e5-813c-82bc0c7c8e0f.gif)
 
 ## Appendix
 ### Setting up a Salesforce Connected App
