@@ -58,6 +58,9 @@ This section guides you in setting up Logstash Event Log File plugin configurati
 
 ![Screenshot of setting up and interacting with Kibana](https://cloud.githubusercontent.com/assets/7350893/10236694/c8afddac-685d-11e5-813c-82bc0c7c8e0f.gif)
 
+## Issues
+Report bugs and issues [here](https://github.com/abisek/elf_elk_docker/issues).
+
 ## Appendix
 ### Setting up a Salesforce Connected App
 Detailed instructions for setting up a Connected App can be found [here](https://help.salesforce.com/apex/HTViewHelpDoc?id=connected_app_create.htm).
