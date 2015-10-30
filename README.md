@@ -37,6 +37,7 @@ This section guides you in setting up Logstash Event Log File plugin configurati
 3. client_id: Salesforce connected App client ID. See 'Setting up Salesforce Connected App' section below. 
 4. client_secret: Salesforce connected App client secret. See 'Setting up Salesforce Connected App' section below. 
 5. security_token: Your account's security token only needed when your Force.com organization requires it.
+6. host: defaults to "login.salesforce.com", Use "test.salesforce.com" for connecting to Sandbox instance.
 
 ## Instructions
 ### Running ELF on ELK on Docker
