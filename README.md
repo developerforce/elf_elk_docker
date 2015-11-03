@@ -62,6 +62,14 @@ This section guides you in setting up Logstash Event Log File plugin configurati
 ## Issues
 Report bugs and issues [here](https://github.com/abisek/elf_elk_docker/issues).
 
+## Contributors
+(Listed in no particular order)
+
+* [Mohammed Islam](https://github.com/msislam92)
+* [Abhishek Sreenivasa](https://github.com/abisek) 
+* [Adam Torman](https://github.com/atorman) 
+* A special thanks to all other committers who have contributed to this effort.
+
 ## Appendix
 ### Setting up a Salesforce Connected App
 Detailed instructions for setting up a Connected App can be found [here](https://help.salesforce.com/apex/HTViewHelpDoc?id=connected_app_create.htm).
@@ -69,3 +77,6 @@ When configuring the connected application, ensure the following options are con
 
 1. *Enable OAuth Settings* is checked.
 2. *Access and manage data (api)* and *Access your basic information (id, profile, email, address, phone)* are included in your *Selected OAuth Scopes*.
+
+### Blogs, Articles, and Tutorials
+1. [Elf on Elk on Docker](http://www.salesforcehacker.com/2015/10/elf-on-elk-on-docker.html) by Adam torman
