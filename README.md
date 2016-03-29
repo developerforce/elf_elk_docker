@@ -79,4 +79,5 @@ When configuring the connected application, ensure the following options are con
 2. *Access and manage data (api)* and *Access your basic information (id, profile, email, address, phone)* are included in your *Selected OAuth Scopes*.
 
 ### Blogs, Articles, and Tutorials
-1. [Elf on Elk on Docker](http://www.salesforcehacker.com/2015/10/elf-on-elk-on-docker.html) by Adam torman
+1. [Elf on Elk on Docker](http://www.salesforcehacker.com/2015/10/elf-on-elk-on-docker.html) by Adam Torman
+2. ['Users: WE KNOW THEM' – The ELF@Salesforce](https://www.elastic.co/elasticon/conf/2016/sf/users-we-know-them-the-elf-at-salesforce) at Elastic{ON} '16 by Adam Torman and Abhishek Sreenivasa
